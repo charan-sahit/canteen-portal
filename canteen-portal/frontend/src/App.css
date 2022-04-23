@@ -1,0 +1,11 @@
+.container {
+  margin: 20px;
+}
+
+.grid-container {
+  
+  
+  grid-gap: 10px;
+  background-color: #ffffff;
+  padding: 10px;
+}
